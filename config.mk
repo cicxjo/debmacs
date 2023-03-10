@@ -2,3 +2,5 @@ VERSION = 28.2
 
 MIRROR    = https://ftpmirror.gnu.org
 EXTENSION = xz
+SHA256.gz = a6912b14ef4abb1edab7f88191bfd61c3edd7085e084de960a4f86485cb7cad8
+SHA256.xz = ee21182233ef3232dc97b486af2d86e14042dbb65bbc535df562c3a858232488
